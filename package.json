@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "@vercel/node": "^2.14.0"
+  },
+  "dependencies": {
+    "mongodb": "^5.3.0"
   }
 }
